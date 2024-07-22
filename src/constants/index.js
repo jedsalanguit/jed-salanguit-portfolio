@@ -22,7 +22,7 @@ export const EXPERIENCES = [
     role: "Customer Service Representative",
     company: "Concentrix",
     description: `Responding to customer questions via email, or chat. Addressing and resolving customer complaints and problems promptly.`,
-    technologies: ["Customer Support", "Email Support", "Chat Support"],
+    technologies: ["Customer Support", "Email/Chat Support"],
   },
   {
     year: "2019 - 2019",
@@ -60,7 +60,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A streamlined cashiering system designed to enhance efficiency, accuracy, and customer satisfaction for DHL Qatar staff.",
-    technologies: ["VB.NET", "Microsoft Access", "Crystal Reports"],
+    technologies: ["VB.NET", "Microsoft Access"],
   },
   {
     title: "Portfolio Website",
