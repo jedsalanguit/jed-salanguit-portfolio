@@ -11,7 +11,7 @@ export const ABOUT_TEXT4 = `In addition to my technical pursuits, I am dedicated
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2023 - 2024",
     role: "Senior IT Officer (Part-Time)",
     company: "Business Center for Global Filipinos",
     description: `Led a team in developing and maintaining websites using Wordpress. Provide tasks to the IT staff and OJTs.`,
