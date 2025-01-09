@@ -74,7 +74,7 @@ export const PROJECTS = [
     title: "Good Samaritan Travel & Tours Website",
     image: project3,
     description:
-      "Create a simple travel agency website based on client's need and budget. Link: https://goodsamaritantravelandtours.com/",
+      "Create a simple travel agency website based on client's needs and budget. Link: https://goodsamaritantravelandtours.com/",
     technologies: ["Wordpress"],
   },
 ];
