@@ -1,6 +1,5 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
 
 export const HERO_CONTENT = `A passionate web developer with 1 year of experience in WordPress, specializing in creating dynamic and user-friendly websites. Driven by a desire to expand my skills, I am currently pursuing a goal to become a full-stack web developer, focusing on React for the front-end and Flask for the back-end. I am committed to continuous learning and excited to bring innovative solutions to web development projects.`;
 
@@ -69,13 +68,6 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-  },
-  {
-    title: "Good Samaritan Travel & Tours Website",
-    image: project3,
-    description:
-      "Create a simple travel agency website based on client's needs and budget. Link: https://goodsamaritantravelandtours.com/",
-    technologies: ["Wordpress"],
   },
 ];
 
