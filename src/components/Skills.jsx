@@ -5,6 +5,7 @@ import {
   RiCss3Line,
   RiHtml5Line,
   RiJavascriptLine,
+  RiNextjsLine,
   RiReactjsLine,
   RiTailwindCssLine,
 } from "react-icons/ri";
