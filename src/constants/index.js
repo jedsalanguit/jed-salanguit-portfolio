@@ -1,13 +1,13 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
+import project3 from "../assets/projects/project-3.jpg";
 
 export const HERO_CONTENT = `A passionate web developer with 1 year of experience in WordPress, specializing in creating dynamic and user-friendly websites. Driven by a desire to expand my skills, I am currently pursuing a goal to become a full-stack web developer, focusing on React for the front-end and Flask for the back-end. I am committed to continuous learning and excited to bring innovative solutions to web development projects.`;
 
-export const ABOUT_TEXT = `A dedicated web developer with 1 year of hands-on experience in WordPress. I have cultivated a deep passion for creating dynamic, user-friendly websites. This allowed me to deliver tailored web solutions that meet the unique needs of clients and users alike.`;
-export const ABOUT_TEXT2 = `As I look to the future, my ambition is to pursue a long-term career in IT Industry, with a focus on full-stack web development. To achieve this, I am currently expanding my knowledge and capabilities by learning React and Flask. React's powerful front-end capabilities, combined with Flask's flexible back-end framework, provide the perfect blend of tools to develop comprehensive, high-performing web applications.
-`;
-export const ABOUT_TEXT3 = `My journey in web development has been fueled by a relentless curiosity and a commitment to continuous improvement. I am eager to leverage my WordPress expertise while integrating new technologies to create innovative and efficient solutions. As I grow my skill set, I am excited about the opportunities to tackle more complex projects, solve challenging problems, and contribute meaningfully to the ever-evolving field of web development.`;
-export const ABOUT_TEXT4 = `In addition to my technical pursuits, I am dedicated to staying current with industry trends and best practices. This commitment ensures that my work not only meets but exceeds the expectations of modern web development standards. I look forward to the journey ahead, where I can blend my experience with new knowledge to drive impactful results in the world of IT.`;
+export const ABOUT_TEXT = `A dedicated web developer with 1 year of hands-on experience in WordPress, I have developed a strong passion for building dynamic and user-friendly websites. This foundation has enabled me to deliver customized web solutions that effectively meet the needs of both clients and end users.`;
+export const ABOUT_TEXT2 = `Looking ahead, my goal is to build a long-term career in the IT industry with a focus on full-stack web development. To support this path, I am currently enhancing my skill set by learning React and Next.js. React’s rich front-end capabilities, combined with the versatility and performance of Next.js, equip me with the tools to create fast, scalable, and modern web applications.`;
+export const ABOUT_TEXT3 = `My journey in web development is driven by a constant curiosity and a commitment to continuous improvement. I’m eager to integrate my WordPress expertise with new technologies to craft innovative, efficient solutions. As I grow, I look forward to tackling more complex challenges and contributing meaningfully to cutting-edge web projects.`;
+export const ABOUT_TEXT4 = `Alongside technical growth, I actively stay up to date with industry trends and best practices to ensure my work aligns with modern standards. I’m excited for what lies ahead and am ready to blend experience with evolving knowledge to make a lasting impact in the field of web development.`;
 
 export const EXPERIENCES = [
   {
@@ -68,6 +68,13 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
+  },
+  {
+    title: "Nexivue",
+    image: project3,
+    description:
+      "An AI-powered coach that helps you practice mock interviews, gives instant feedback, and improves your answers—anytime, anywhere. Link: https://nexivue.vercel.app/",
+    technologies: ["Next.js", "Vapi", "Firebase", "Tailwind"],
   },
 ];
 
