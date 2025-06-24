@@ -74,7 +74,14 @@ export const PROJECTS = [
     image: project3,
     description:
       "An AI-powered coach that helps you practice mock interviews, gives instant feedback, and improves your answers—anytime, anywhere. Link: https://nexivue.vercel.app/",
-    technologies: ["Next.js", "Vapi", "Firebase", "Tailwind", "Shadcn"],
+    technologies: [
+      "Next.js",
+      "Vapi",
+      "Firebase",
+      "Tailwind",
+      "Shadcn",
+      "TypeScript",
+    ],
   },
 ];
 
