@@ -11,18 +11,18 @@ export const ABOUT_TEXT4 = `Alongside technical growth, I actively stay up to da
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior IT Officer (Part-Time)",
-    company: "Business Center for Global Filipinos",
-    description: `Led a team in developing and maintaining websites using Wordpress. Provide tasks to the IT staff and OJTs.`,
-    technologies: ["HTML", "CSS", "PHP", "Wordpress", "MySQL"],
-  },
-  {
     year: "2019 - Present",
     role: "Customer Service Representative",
     company: "Concentrix",
     description: `Responding to customer questions via email, or chat. Addressing and resolving customer complaints and problems promptly.`,
     technologies: ["Customer Support", "Email/Chat Support"],
+  },
+  {
+    year: "2023 - 2025",
+    role: "Senior IT Officer (Part-Time)",
+    company: "Business Center for Global Filipinos",
+    description: `Led a team in developing and maintaining websites using Wordpress. Provide tasks to the IT staff and OJTs.`,
+    technologies: ["HTML", "CSS", "PHP", "Wordpress", "MySQL", "Cpanel"],
   },
   {
     year: "2019 - 2019",
