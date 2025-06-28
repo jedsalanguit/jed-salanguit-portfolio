@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `A passionate web developer with 1 year of experience in WordPress, specializing in creating dynamic and user-friendly websites. Driven by a desire to expand my skills, I am currently pursuing a goal to become a full-stack web developer, focusing on React for the front-end and Flask for the back-end. I am committed to continuous learning and excited to bring innovative solutions to web development projects.`;
 
@@ -82,6 +83,13 @@ export const PROJECTS = [
       "Shadcn",
       "TypeScript",
     ],
+  },
+  {
+    title: "Good Samaritan Travel & Tours",
+    image: project4,
+    description:
+      "A basic travel agency website built using WordPress, designed to showcase services, tour packages, and contact information for client inquiries. Link: https://goodsamaritantravelandtours.com/",
+    technologies: ["Wordpress", "SMTP configuration"],
   },
 ];
 
