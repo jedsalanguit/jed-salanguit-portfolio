@@ -96,5 +96,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Binangonan, Rizal, Philippines ",
   phoneNo: "+639159573271 ",
-  email: "jlyndon.salanguit@gmail.com",
+  email: "jedsalanguit.dev@gmail.com",
 };
