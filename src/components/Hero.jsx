@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import resume from "../assets/Jed-Salanguit-Resume.pdf";
+import resume from "../assets/Jed-Lyndon-Salanguit-Resume.pdf";
 import heroPic from "../assets/JedSalanguit.png";
 import { HERO_CONTENT } from "../constants";
 
