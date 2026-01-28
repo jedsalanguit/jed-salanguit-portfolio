@@ -1,7 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `A passionate web developer with 1 year of experience in WordPress, specializing in dynamic and user-friendly websites. I’m currently working toward becoming a full-stack developer, focusing on Next.js. Committed to continuous learning and delivering innovative web solutions.`;
 
@@ -61,7 +60,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A streamlined cashiering system designed to enhance efficiency, accuracy, and customer satisfaction for DHL Qatar staff.",
-    technologies: ["VB.NET", "Microsoft Access"],
+    technologies: ["VB.NET", "Microsoft Access", "Crystal Reports"],
   },
   {
     title: "Portfolio Website",
@@ -83,13 +82,6 @@ export const PROJECTS = [
       "Shadcn",
       "TypeScript",
     ],
-  },
-  {
-    title: "Good Samaritan Travel & Tours",
-    image: project4,
-    description:
-      "A basic travel agency website built using WordPress, designed to showcase services, tour packages, and contact information for client inquiries. Link: https://goodsamaritantravelandtours.com/",
-    technologies: ["Wordpress", "SMTP configuration"],
   },
 ];
 
